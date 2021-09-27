@@ -2,32 +2,6 @@
 
 ---
 
-<div>
-<b>Quick menu:</b>
-<a href="https://theultimateapichallenge.com/lyrics-api" target="_blank" rel="noopener noreferrer"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #BDFFF3;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">Challenge Page</a> |
-<a href="https://lyricsovh.docs.apiary.io/" target="_blank" rel="noopener noreferrer"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #F1DEDE;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">Official API Docs</a> |
-<a href="https://youtu.be/fu-gockYaT4" target="_blank" rel="noopener noreferrer"
-    style="padding:0.35rem 0.7rem;
-    color: black;
-    background: #FE938C;
-    border-radius:10px;
-    font-size:0.85rem;
-    font-weight:600;">YouTube Video</a> 
-</div>
-
----
 
 ## Description
 
@@ -35,8 +9,6 @@
 
 <p>In the <b>Lyrics API Challenge</b> we will use jQuery and its $.AJAX method for communicating with the API, work on separation of concerns, making our code more clean and animate some UI elements according to the application's state.</p>
 
-<p>Feel free to try out first yourself or jump on the YouTube video from the start, find what works best fo you and enjoy! 🐣
-</p>
 
 ### Tech stack
 
@@ -50,15 +22,6 @@ Communication tool:
 - jQuery, $.ajax
 ```
 
-### Prerequisites
-
-```
-Knowledge level:
-basic understanding of HTML, CSS and JavaScript
-
-Tech:
-a computer/laptop to copy the files to with a code editor of your choice
-```
 
 ## Preview
 
